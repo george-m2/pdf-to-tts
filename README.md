@@ -3,7 +3,7 @@
 ## Using OpenAI's tts-01 model and pymupdf to convert PDF text into realistic sounding voice
 
 Requires a paid OpenAI account with a valid API key.<br></br>
-Comments and information about pdf-to-tts can be found in the '''pdf-to-tts.ipynb''' notebook, whilst the full code can be found in '''main.py'''
+Comments and information about pdf-to-tts can be found in the ```pdf-to-tts.ipynb``` notebook, whilst the full code can be found in ```main.py```
 
 [tts-01 Documentation](https://platform.openai.com/docs/guides/text-to-speech)
 
